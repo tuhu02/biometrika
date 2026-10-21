@@ -1,0 +1,12 @@
+%% Convert form 2 Dimensions into 1 Dimension
+
+load MyTraining;
+[NumOfSubjects NumOfPoses]= size(MyTraining)
+
+%% convert 2 dimensions into 1 dimension
+for Subject=1:NumOfSubjects
+    for Pose=1:NumOfPoses
+        
+    end
+end
+

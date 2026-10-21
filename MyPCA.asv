@@ -1,0 +1,4 @@
+load Im1D;
+
+RataRata=mean(Im1D,1)
+ZeroMean=(
